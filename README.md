@@ -5,7 +5,7 @@ This repository contains code for the study on **echelon utilization of retired 
 
 This study uses GPS trajectory data of **260 electric buses in Wenzhou**.  
 Due to **data privacy and security requirements**, the raw trajectory data is not publicly available in this repository.  
-If you need the data for research purposes, please contact the author (22360198@zju.eduy.cn).
+If you need the data for research purposes, please contact the author (22360198@zju.edu.cn).
 
 
 ## Project Overview
